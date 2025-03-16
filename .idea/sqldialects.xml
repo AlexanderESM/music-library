@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/database/scripts/1_init_musicdb.down.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/database/scripts/1_init_musicdb.up.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/database/scripts/2_create_songs_table.down.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/database/scripts/2_create_songs_table.up.sql" dialect="PostgreSQL" />
+  </component>
+</project>
